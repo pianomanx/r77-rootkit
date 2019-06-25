@@ -1,0 +1,16 @@
+r77
+	* x86 not working for files & registry
+	* Features
+		* Hide threads
+		* Hide registry keys / values (Unpublished changes on dev branch)
+		* Hide services
+		* Auto-Validation for browser certificates
+Next
+	* Hiding by "HIDDEN" file attribute in addition to ""$77-"" prefix
+	* ring0
+
+Info
+	* http://cboard.cprogramming.com/windows-programming/109641-help-zwquerydirectoryfile-my-driver.html
+	* https://github.com/hzeroo/Carberp/blob/master/source%20-%20absource/pro/all%20source/BlackJoeWhiteJoe/Source/Rootkit.cpp
+	* http://pastebin.com/vAEFeGBn
+	* http://stackoverflow.com/questions/14036164/how-to-hide-folder-using-ntquerydirectoryfile-function-hook
